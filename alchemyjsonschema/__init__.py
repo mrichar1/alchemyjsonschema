@@ -52,8 +52,6 @@ default_column_to_schema = {
     t.DateTime: "string",
     t.Date: "string",
     t.Time: "string",  # xxx
-    t.LargeBinary: "xxx",
-    t.Binary: "xxx",
     t.Boolean: "boolean",
     t.Unicode: "string",
     t.Concatenable: "xxx",
